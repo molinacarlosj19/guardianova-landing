@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import LandingPage from './LandingPage';
+import LandingPage from "./pages/LandingPage";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
